@@ -1,7 +1,7 @@
--- Front End --
-cd frontend
+-- Front End --  
+cd frontend  
 ng serve
 
--- Back end --
-cd backend
-./gradlew bootrun
+-- Back end --  
+cd backend  
+./gradlew bootrun  
